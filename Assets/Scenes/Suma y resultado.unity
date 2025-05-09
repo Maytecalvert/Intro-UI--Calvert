@@ -279,7 +279,7 @@ GameObject:
   - component: {fileID: 75615780}
   - component: {fileID: 75615779}
   m_Layer: 5
-  m_Name: Txtreresultado
+  m_Name: TxtResultado
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1301,6 +1301,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c64ff68f89c35144da94a8860d8239f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  txtResultado: {fileID: 75615779}
+  inputNum1: {fileID: 339886469}
+  inputNum2: {fileID: 1274966345}
 --- !u!4 &756786210
 Transform:
   m_ObjectHideFlags: 0
